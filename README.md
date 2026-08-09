@@ -17,7 +17,6 @@ Functions,loops, matrices
 | File | Description |
 | :--- | :--- |
 | [View pdf](<./project-1/Statistical Data Analysis Project[R](1).pdf>) | The primary pdf with R code|
-
 ---
 
 ###  Time Series Simulation, Inverse Transform Sampling ,Acceptance-Rejection Sampling, Dataset Analysis
@@ -33,7 +32,7 @@ Functions,loops, matrices
 | File | Description |
 | :--- | :--- |
 [View RMarkdown Code](<./project-2/Statistical Data Analysis Project[R](2).Rmd>)| The primary RMarkdown source code |
-| [View html](<./project-2/Statistical Data Analysis Project[R](2).html>) | The primary html final|
+| [View](<./project-2/Statistical-Data-Analysis-Project[R]-2-.md>) | The final form|
 ---
 
 ###  Monte-Carlo Simulation, Importance Sampling
@@ -44,7 +43,7 @@ Functions,loops, matrices
 | File | Description |
 | :--- | :--- |
 | [View RMarkdown Code](<./project-3/Statistical Data Analysis Project[R](3).Rmd>) | The primary RMarkdown source code |
-| [View html](<./project-3/Statistical Data Analysis Project[R](3).html>) | The primary html final|
+| [View](<./project-3/Statistical-Data-Analysis-Project[R]-3-.md>)  | The final form|
 ---
 
 ##  Languages & Tools
