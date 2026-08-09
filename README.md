@@ -28,7 +28,7 @@ Functions,loops, matrices
   * Summary metrics (mean, variance, IQR), outlier detection, and goodness-of-fit distribution testing.
   * **Random Variate Generation:**  Generated random samples using the Inverse Transform Sampling method.
   * **Acceptance-Rejection Sampling:**  Implemented the Acceptance-Rejection method using heavy-tailed proposal distributions to simulate exponential random variables and analyzed sampling efficiency.
-**Repository Files**
+* **Repository Files**
 | File | Description |
 | :--- | :--- |
 [View RMarkdown Code](<./project-2/Statistical Data Analysis Project[R](2).Rmd>)| The primary RMarkdown source code |
@@ -39,7 +39,7 @@ Functions,loops, matrices
 * Implemented Monte Carlo integration
 * Evaluated Importance Sampling across multiple proposal distributions (Gaussian, Gaussian Mixture, Uniform) for variance reduction and convergence analysis.
 *Compared Standard MC against 3 proposal distributions were the Mixture Normal proposal yielded the lowest variance
-**Repository Files**
+* **Repository Files**
 | File | Description |
 | :--- | :--- |
 | [View RMarkdown Code](<./project-3/Statistical Data Analysis Project[R](3).Rmd>) | The primary RMarkdown source code |
