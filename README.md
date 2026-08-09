@@ -16,7 +16,7 @@ Functions,loops, matrices
 *  **Repository Files**
 | File | Description |
 | :--- | :--- |
-| `Statistical Data Analysis Project[R](1).pdf` | The primary RMarkdown source code|
+| [View pdf](<./project-1/Statistical Data Analysis Project[R](1).pdf>) | The primary pdf with R code|
 
 ---
 
@@ -45,7 +45,7 @@ Functions,loops, matrices
 | `Statistical Data Analysis Project[R](3).rmd` | The primary RMarkdown source code |
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 * **Language:** R
 * **Libraries:** `moments`, `nortest`, `rmutil`, `ggplot2`, `stats`, `knitr`
