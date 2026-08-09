@@ -32,7 +32,8 @@ Functions,loops, matrices
 **Repository Files**
 | File | Description |
 | :--- | :--- |
-[View RMarkdown Code](./project-1/Statistical%20Data%20Analysis%20Project%5BR%5D(1).Rmd)
+[View RMarkdown Code](<./project-2/Statistical Data Analysis Project[R](2).Rmd>)| The primary RMarkdown source code |
+| [View html](<./project-2/Statistical Data Analysis Project[R](2).html>) | The primary html final|
 ---
 
 ###  Monte-Carlo Simulation, Importance Sampling
@@ -42,7 +43,8 @@ Functions,loops, matrices
 **Repository Files**
 | File | Description |
 | :--- | :--- |
-| `Statistical Data Analysis Project[R](3).rmd` | The primary RMarkdown source code |
+| [View RMarkdown Code](<./project-3/Statistical Data Analysis Project[R](3).Rmd>) | The primary RMarkdown source code |
+| [View html](<./project-3/Statistical Data Analysis Project[R](3).html>) | The primary html final|
 ---
 
 ##  Languages & Tools
