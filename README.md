@@ -1,4 +1,4 @@
-# Data Analysis
+# Applied Statistical Modeling & Analysis in R
 
 This repository contains my coursework, projects, and simulations in a course called Statistical Data Analysis.
 *University of Cyprus — Department of Mathematics and Statistics* 
