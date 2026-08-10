@@ -26,7 +26,7 @@ Functions,loops, matrices
   * Assessment of stationarity, autocorrelation at lag-1, and normality verification (Kolmogorov-Smirnov normality test, Q-Q plots,kernel,ecdf).
 * **Data Analysis of `iris` dataset:**
   * Summary metrics (mean, variance, IQR), outlier detection, and goodness-of-fit distribution testing.
-  * **Random Variate Generation:**  Generated random samples using the Inverse Transform Sampling method.
+* **Random Variate Generation:**  Generated random samples using the Inverse Transform Sampling method.
   * **Acceptance-Rejection Sampling:**  Implemented the Acceptance-Rejection method using heavy-tailed proposal distributions to simulate exponential random variables and analyzed sampling efficiency.
 * **Repository Files**
 | File | Description |
